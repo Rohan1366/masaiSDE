@@ -9,7 +9,9 @@ const RightBox = ({
 }) => {
   return <div>
     {/* Add tip Amount and total here */}
+    <h2></h2>
     {/* Add button to RESET */}
+    <button>Reset</button>
   </div>;
 };
 
